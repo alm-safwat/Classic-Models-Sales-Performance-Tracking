@@ -66,3 +66,7 @@ The objective of this Business Intelligence (BI) project is to analyze the sales
 - Data-Driven Decision-Making: Emphasize the importance of leveraging data-driven insights to inform strategic decision-making and optimize business operations.
 
 By implementing these recommendations based on the KPIs created, the business owners can effectively leverage data analytics to drive growth, optimize performance, and capitalize on opportunities in their market segment.
+
+## View Dashboard:
+
+[Click here to access the Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTc2MDE1ZjMtYzYxMC00MjdhLWFmZmMtZDIzYjNhNjc1M2RmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&fbclid=IwAR2el7Cdas4xsLgJS1G82uJvfHYnBImMdbZvjqIlKua2gP6LjTODtrgflWk)
